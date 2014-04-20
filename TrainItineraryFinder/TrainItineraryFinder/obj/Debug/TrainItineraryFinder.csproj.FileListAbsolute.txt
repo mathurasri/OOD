@@ -1,0 +1,9 @@
+c:\users\mathu\documents\visual studio 2012\Projects\TrainItineraryFinder\TrainItineraryFinder\bin\Debug\TrainItineraryFinder.exe.config
+c:\users\mathu\documents\visual studio 2012\Projects\TrainItineraryFinder\TrainItineraryFinder\bin\Debug\TrainItineraryFinder.exe
+c:\users\mathu\documents\visual studio 2012\Projects\TrainItineraryFinder\TrainItineraryFinder\bin\Debug\TrainItineraryFinder.pdb
+c:\users\mathu\documents\visual studio 2012\Projects\TrainItineraryFinder\TrainItineraryFinder\obj\Debug\TrainItineraryFinder.csprojResolveAssemblyReference.cache
+c:\users\mathu\documents\visual studio 2012\Projects\TrainItineraryFinder\TrainItineraryFinder\obj\Debug\TrainItineraryFinder.Form1.resources
+c:\users\mathu\documents\visual studio 2012\Projects\TrainItineraryFinder\TrainItineraryFinder\obj\Debug\TrainItineraryFinder.Properties.Resources.resources
+c:\users\mathu\documents\visual studio 2012\Projects\TrainItineraryFinder\TrainItineraryFinder\obj\Debug\TrainItineraryFinder.csproj.GenerateResource.Cache
+c:\users\mathu\documents\visual studio 2012\Projects\TrainItineraryFinder\TrainItineraryFinder\obj\Debug\TrainItineraryFinder.exe
+c:\users\mathu\documents\visual studio 2012\Projects\TrainItineraryFinder\TrainItineraryFinder\obj\Debug\TrainItineraryFinder.pdb
